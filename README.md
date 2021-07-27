@@ -1,6 +1,8 @@
 # 21-03-24 start
 한양대학교 휴즈 파이썬알고리즘 스터디
 
+원본 : https://github.com/hyundp/hanyang_algo_study
+
 
 ## 03/24 ~ 03/30 1주차
 
